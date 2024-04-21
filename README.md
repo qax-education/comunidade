@@ -18,9 +18,9 @@ Esta comunidade foi criada para facilitar a interação e o aprendizado coletivo
 
 ##### 3️⃣ **Regras gerais:**
 
-🗣️ Discussões sobre tecnologia e qualidade de software são bem-vindas;
-❌ Não compartilhe conteúdos de terceiros sem a autorização dos administradores 🚨 ;
-🤝 **Respeito e Colaboração:** Promovemos um ambiente de respeito e colaboração. Dúvidas ou sugestões? Fale com os administradores do grupo.
+- 🗣️ Discussões sobre tecnologia e qualidade de software são bem-vindas;
+- ❌ Não compartilhe conteúdos de terceiros sem a autorização dos administradores 🚨 ;
+- 🤝 Respeito e Colaboração: Promovemos um ambiente de respeito e colaboração. Dúvidas ou sugestões? Fale com os administradores do grupo.
 
 Estamos aqui para trocar conhecimento, ajudar uns aos outros e criar uma comunidade forte e colaborativa! 🤝💬
 
